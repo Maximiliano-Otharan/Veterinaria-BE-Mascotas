@@ -1,3 +1,3 @@
-[submodule "Veterinaria-FE-Mascotas"]
-	path = Veterinaria-FE-Mascotas
-	url = https://github.com/Maximiliano-Otharan/Veterinaria-FE-Mascotas.git
+[submodule "FE-Mascotas"]
+	path = FE-Mascotas
+	url = https://github.com/Maximiliano-Otharan/FE-Mascotas.git
